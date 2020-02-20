@@ -1,0 +1,160 @@
+.arial {
+    font-family: Arial, sans-serif;
+}
+
+.noto {
+    font-family: 'Noto Serif', Georgia, serif;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.title {
+    color: #000000;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: left;
+    padding: 18px 0 10px;
+}
+
+.title-text,
+.info {
+    font-size: 15px;
+    line-height: 2;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.title-text{
+    font-size: 13px;
+    line-height: 1.7;
+}
+
+.info {
+    color: #0A0A0A;
+    line-height: 1.6;
+    letter-spacing: 0;
+}
+
+.list p {
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.list p span.pointer {
+    color: #8c8b8b;
+    border: 2px solid #8c8b8b;
+    padding: 2px 5px;
+    font-weight: bold;
+    margin-right: 5px;
+    line-height: 2;
+}
+
+.list p span.highlight{
+    color: #00acbb;
+    font-weight: 600;
+}
+
+.note{
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #00acbb;
+}
+
+
+th.columns.padding_b {
+    padding-bottom: 0;
+}
+
+.table.button table tr td a:visited,
+table.button.large table tr td a:visited {
+    /*color: #333;*/
+    color: #fff;
+}
+
+table.button table td.btn {
+    background: #fff;
+    border: none;
+}
+
+table.button table td.btn a {
+    color: #9f2125;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+table.button table td a {
+    font-family: 'Raleway', sans-serif;
+}
+
+table.button table td.btn2 {
+    background: transparent;
+    border: 2px solid #00acbb;
+    color: #00acbb;
+    /*border: 1px solid transparent;
+    background: #00acbb;*/
+}
+
+table.button table td.btn2 a{
+     color: #00acbb;
+}
+
+table.button table td.btn2 a {
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.heading {
+    color: #00acbb;
+    font-weight: 600;
+}
+
+.content2 {
+    background: #0a3783;
+}
+
+.footer p.follow {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    letter-spacing: 4px;
+}
+
+.footer p {
+    font-size: 12px;
+    color: #e1dbdb;
+}
+
+.social-icons {
+    border-top: 1px solid #989696;
+}
+
+.social-icons a img{
+    width: 30px;
+    height: auto;
+    transition: all 0.3s linear;
+}
+
+.note p {
+    font-size: 12px;
+}
+
+a,
+a:visited {
+    color: #da7532;
+}
+
+.social-icons a:hover img {
+    margin-top: -8px;
+}
